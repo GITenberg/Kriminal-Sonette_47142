@@ -1,0 +1,28 @@
+_repo: Kriminal-Sonette_47142
+contributor:
+  illustrator:
+    agent_name: Szafranski, Kurt
+    gutenberg_agent_id: '44157'
+    url: http://www.gutenberg.org/2009/agents/44157
+creator:
+  authors:
+  - agent_name: Hahn, Livingstone
+    gutenberg_agent_id: '44156'
+    url: http://www.gutenberg.org/2009/agents/44156
+  - agent_name: Rubiner, Ludwig
+    gutenberg_agent_id: '42758'
+    url: http://www.gutenberg.org/2009/agents/42758
+  - agent_name: Eisenlohr, Friedrich
+    gutenberg_agent_id: '44155'
+    url: http://www.gutenberg.org/2009/agents/44155
+description: ''
+gutenberg_issued: '2014-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47142'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Kriminal-Sonette
+url: http://www.gutenberg.org/ebooks/47142
